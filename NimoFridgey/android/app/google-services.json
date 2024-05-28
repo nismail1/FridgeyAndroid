@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "537797696780",
+    "project_id": "instagram-dev-3ad54",
+    "storage_bucket": "instagram-dev-3ad54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537797696780:android:db942747a556d56fe5bd29",
+        "android_client_info": {
+          "package_name": "com.fridgey2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537797696780-qi4sla35i6bqns5c07srosh3su574kes.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOj5y7YG5vUpv83wyxgAHFDD3ahS0J250"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537797696780-qi4sla35i6bqns5c07srosh3su574kes.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "537797696780-h0aq8g5nkrfne04unv35v2d8o01ir0dc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.Fridgey"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
